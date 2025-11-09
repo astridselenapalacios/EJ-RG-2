@@ -1,5 +1,4 @@
 # VIOLETA NAILS
-Autor: Astrid palacios
 ## DESCRIPCION
 Violeta Nails es un proyecto creado para representar un lugar dedicado al cuidado y embellecimiento de las uñas.
 Su propósito es mostrar cómo se puede organizar un negocio enfocado en poner las manos lindas y bien arregladas.
