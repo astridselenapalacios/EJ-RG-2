@@ -49,5 +49,3 @@ https://github.com/astridselenapalacios
 https://i.pinimg.com/originals/54/bc/93/54bc93adef1e2a9680c97a280a1f2f4b.jpg
 ## EMOJI
  💅
-    
-ss
