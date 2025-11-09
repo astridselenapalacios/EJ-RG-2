@@ -38,7 +38,7 @@ Su propósito es mostrar cómo se puede organizar un negocio enfocado en poner l
     <script src='main.js'></script>
 </head>
 <body>
-    <h1> bienvenido a esta pagina</h1>
+    <h1> Bienvenidos a  Violeta Nails</h1>
     
 </body>
 </html>
@@ -50,3 +50,4 @@ https://i.pinimg.com/originals/54/bc/93/54bc93adef1e2a9680c97a280a1f2f4b.jpg
 ## EMOJI
  💅
     
+ss
